@@ -129,7 +129,7 @@ I don't wait for permission. I build, ship, iterate.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,16,17&height=120&section=footer&fontSize=14&fontColor=a89984&text=building%20things%20that%20work%2C%20one%20commit%20at%20a%20time&fontAlignY=70&animation=fadeIn" width="100%" />
+*building things that work, one commit at a time*
 
 ![Profile views](https://komarev.com/ghpvc/?username=lukebaze&color=fe8019&style=flat-square&label=visitors)
 
